@@ -1,0 +1,32 @@
+form{
+	padding:10px;
+	
+	font-family:arial;
+	width:auto;
+	height:auto;
+	color:#02557A;
+	font-weight:bold;
+	font-size:22;
+}
+
+form input{
+	
+	padding:5px;
+	font-family:arial;
+	font-weight:bold;
+	font-size:15px;
+}
+
+form input[type=submit]{
+	color:#02557A;
+	margin: auto;
+	display: block;
+	background-color:white;
+	border:solid #F6BD60 3px;
+	border-radius:12px;
+	padding:5px;
+	font-family:arial;
+	font-weight:bold;
+	font-size:15px;
+}
+
